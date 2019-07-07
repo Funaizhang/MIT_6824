@@ -1,7 +1,10 @@
 # Folders #
 ###################
-/Lecture_notes
-/Raft
+#/Lecture_notes
+#/Raft
+#/WZB
+#raft guide.rtf
+
 
 # # Compiled source #
 # ###################
@@ -14,7 +17,7 @@
 # *.pdf
 # *.txt
 # *.pptx
-*.ppt
+# *.ppt
 
 # # Packages #
 # ############
@@ -37,7 +40,7 @@
 
 # # OS generated files #
 # ######################
-# .DS_Store
+.DS_Store
 # .DS_Store?
 # ._*
 # .Spotlight-V100
